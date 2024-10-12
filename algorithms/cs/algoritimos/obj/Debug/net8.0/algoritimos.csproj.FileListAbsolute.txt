@@ -1,0 +1,14 @@
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/bin/Debug/net8.0/algoritimos
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/bin/Debug/net8.0/algoritimos.deps.json
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/bin/Debug/net8.0/algoritimos.runtimeconfig.json
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/bin/Debug/net8.0/algoritimos.dll
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/bin/Debug/net8.0/algoritimos.pdb
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/obj/Debug/net8.0/algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/obj/Debug/net8.0/algoritimos.AssemblyInfoInputs.cache
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/obj/Debug/net8.0/algoritimos.AssemblyInfo.cs
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/obj/Debug/net8.0/algoritimos.csproj.CoreCompileInputs.cache
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/obj/Debug/net8.0/algoritimos.dll
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/obj/Debug/net8.0/refint/algoritimos.dll
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/obj/Debug/net8.0/algoritimos.pdb
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/obj/Debug/net8.0/algoritimos.genruntimeconfig.cache
+/home/coigo/www/other/data-structure/algorithms/cs/algoritimos/obj/Debug/net8.0/ref/algoritimos.dll
